@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://my3wins.com/sitemap.xml
