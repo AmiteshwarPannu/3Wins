@@ -39,4 +39,4 @@ export const footerLinks: { label: string; href: string | null }[] = [
 ]
 
 /** Update this alt text when you add the real screenshot to src/assets. */
-export const screenshotAlt = "The 3 Wins app showing today's three wins"
+export const screenshotAlt = 'The 3 Wins app stats screen, charting the share of daily wins recorded over time'
